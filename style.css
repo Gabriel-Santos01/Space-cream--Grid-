@@ -68,7 +68,7 @@ p {
   font-family: 'Palanquin';
   font-style: normal;
   font-weight: 400;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 2rem;
 
   color: #ffffff;
@@ -193,10 +193,10 @@ footer a {
   }
 
   header p {
-    font-family: 'Palanquin';
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 2rem;
 
     color: #ffffff;
