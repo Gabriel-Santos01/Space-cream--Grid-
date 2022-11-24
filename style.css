@@ -77,6 +77,14 @@ p {
   margin-inline: auto;
 }
 
+main p {
+  color: #4a4e69;
+}
+
+header p {
+  display: none;
+}
+
 .card {
   position: relative;
 
@@ -95,13 +103,6 @@ p {
 
 .card:hover {
   transform: scale(1.03);
-}
-
-img {
-  width: 100%;
-  height: auto;
-
-  object-fit: cover;
 }
 
 h2 {
@@ -180,6 +181,14 @@ footer a {
     height: 100vh;
     position: fixed;
     width: 37.7rem;
+  }
+
+  header p {
+    display: block;
+  }
+
+  main p {
+    display: none;
   }
 
   h1 {
